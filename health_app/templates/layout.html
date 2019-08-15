@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+    {% if title %}
+        <title>Toptal Project - {{ title }}</title>
+    {% else %}
+        <title>Toptal Project</title>
+    {% endif %}
+</head>
+<body>
+    {% block content %}
+    {% endblock %}
+</body>
+</html>
