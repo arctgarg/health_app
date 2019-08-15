@@ -9,3 +9,6 @@ need to add authorization. Explored flask-user, flask-login extensions for that.
 
 https://flask-user.readthedocs.io/en/latest/authorization.html gives some functionality, but i could not understand how to use it. 
 I need json response, i think this returns html by defualt.
+
+
+I found this today morning. Need to take a look. 
