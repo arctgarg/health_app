@@ -12,3 +12,4 @@ I need json response, i think this returns html by defualt.
 
 
 I found this today morning. Need to take a look. 
+https://github.com/humiaozuzu/awesome-flask
